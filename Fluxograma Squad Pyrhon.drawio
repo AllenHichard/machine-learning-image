@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T17:53:25.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PhCz7rv5hFSl7L1_Dg-Q" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-05T17:55:09.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hPVUBPahKZ98WRihgoji" version="20.3.7" type="github">
   <diagram id="njOKaHDEZN1Dqdy95MF9" name="Página-1">
-    <mxGraphModel dx="1730" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EMcWy1yFtALza47EwAq5-1" value="Início do processo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="39" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EMcWy1yFtALza47EwAq5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMcWy1yFtALza47EwAq5-3" target="EMcWy1yFtALza47EwAq5-4">
           <mxGeometry relative="1" as="geometry" />
@@ -75,10 +75,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMcWy1yFtALza47EwAq5-30" value="Alterações ou novos requisitos?" style="rhombus;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="427" y="31" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="18" width="120" height="132" as="geometry" />
         </mxCell>
         <mxCell id="EMcWy1yFtALza47EwAq5-34" value="Fim do Processo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="41" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="39" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EMcWy1yFtALza47EwAq5-35" value="&lt;ol&gt;&lt;li&gt;Andamento do processo poderá ser consultado via Trello ou Jira;&lt;/li&gt;&lt;li&gt;As dailys serão realizadas pela squad (daily nasceu para retirar dúvidas de projeto, não ficar sabendo se cliente entrou em contato ou não);&lt;/li&gt;&lt;li&gt;Os prazos serão determinado e documentado em relação aos requisitos e deverá conter a assinatura da squad que validou e ter sido enviado pelo e-mail da squad&lt;/li&gt;&lt;li&gt;O desenvolvimento poderá ser realizado de maneira assíncrona&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="70" y="880" width="690" height="240" as="geometry" />
